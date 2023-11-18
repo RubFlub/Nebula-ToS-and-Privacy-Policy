@@ -14,10 +14,11 @@ The bot may store the following information:
 - The name of the partnered server, as set by an admin of the server.
 - The 'format' of the partnered server, as set by an admin of the server.
 - The 'term' of the partnered server, as set by an admin of the server.
+
 No other information outside of the above will be stored.
 
 # Updating Data
-Data may be updated when using specific commands/
+Data may be updated when using specific commands.
 Updating data may include updating the listed details of a partnered server, or an update of the server.
 No other actions may update the stored information at any given time.
 
