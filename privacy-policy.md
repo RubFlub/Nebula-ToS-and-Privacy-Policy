@@ -14,6 +14,7 @@ The bot may store the following information:
 - The name of the partnered server, as set by an admin of the server.
 - The 'format' of the partnered server, as set by an admin of the server.
 - The 'term' of the partnered server, as set by an admin of the server.
+- An invite link to the partnered server.
 
 No other information outside of the above will be stored.
 
