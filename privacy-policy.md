@@ -2,6 +2,7 @@
 The bot may use stored data, as defined below, for features including but not limited to:
 - Adding and managing partnered Nebula servers.
 - Welcome messages.
+
 No usage of data outside of the aforementioned cases will happen, and the data will not be shared with any third-party site or service.
 
 # Stored Information
