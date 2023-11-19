@@ -8,7 +8,7 @@ No usage of data outside of the aforementioned cases will happen, and the data w
 # Stored Information
 The bot may store the following information:
 - The member count of a partnered server at the time of the last update.
-- The id of the 'head host' of the server, as designated by an admin fo the server.
+- The id of the 'head host' of the server, as designated by an admin for the server.
 - A set of 'hosts' ids, as designated by the head host.
 - The ID of the partnered server.
 - The name of the partnered server, as set by an admin of the server.
@@ -25,3 +25,4 @@ No other actions may update the stored information at any given time.
 
 # Removal of Data
 Stored data can be removed automatically by removing your server as a partner.
+Additionally, if you wish, you may create a ticket within the support server to have all data removed.
